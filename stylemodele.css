@@ -80,8 +80,8 @@ footer {
 }
 
 #retourhaut:hover {
-   
-    
+
+
 }
 
 #textretour:hover {
@@ -103,7 +103,7 @@ footer {
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
     font-style: normal;
-  }
+}
 
 .titillium-web-bold {
     font-family: "Titillium Web", sans-serif;
@@ -145,6 +145,10 @@ main section h1 {
     margin-bottom: 25px;
 }
 
+#sources {
+    background-color: gray;
+}
+
 main section article {
     margin-bottom: 60px;
     padding: 30px;
@@ -162,15 +166,18 @@ main section article p {
     line-height: 1.5;
     text-align: justify;
     margin: 10px;
-    margin-left: 50px;
 }
 
-main section article img.photopresentation {
+.photopresentation {
     display: block;
     max-width: 100%;
     height: auto;
     margin: 15px auto;
     border-radius: 8px;
+}
+
+figcaption {
+    font-size: 10px;
 }
 
 @media (max-width: 768px) {
