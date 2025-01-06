@@ -1,0 +1,250 @@
+body{
+    margin: 0;
+}
+p {
+
+    font-family: "Titillium Web";
+    line-height: 1.8;       /* Espacement entre les lignes */
+    margin-bottom: 20px;    /* Espacement sous chaque paragraphe */
+    text-align: justify;  /* Justification pour des bords nets */
+}
+
+h1{
+    font-size: 70px;
+    margin-left: 10px;
+    font-family: "Bebas Neue";
+}
+.introTR{
+    font-size: 25px;
+    color: #222;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+titleTR{
+    margin-left: 30px;
+    font-size: 70px;
+    margin-left: 10px;
+    font-family: "Bebas Neue";
+}
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+section{
+    margin: 50px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.title{
+    font-family: "Bebas Neue";
+    margin-top: 40px;
+}
+
+.carte{
+    display: block;
+    margin: 0 auto;
+    width: 590px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 1.5%;
+}
+
+.velo{
+    width: 600px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 1.5%;
+}
+
+.tony{
+    width: 560px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 1.5%;
+}
+
+.bus{
+    width: 600px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 1.5%;
+}
+
+.m14{
+    width: 650px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 1.5%;
+}
+
+/* .texte {
+    background-color: gray;
+    border-radius: 1.5%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+*/
+.conclusion{
+
+}
+
+article{
+    background-color: #f0f0f0;
+    margin-bottom: 60px;
+    padding: 15px;
+    border-radius: 8px;
+}
+.tr{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+article p{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+    color: #555;
+}
+
+article h2{
+    color: #222;
+}
+
+.intro{
+    font-size: 25px;
+    color: #222;
+}
+
+.trc{
+    font-size: 70px;
+    font-family: "Bebas Neue";
+    text-align: center;
+}
+
+
+
+
+
+
+--------------------------------
+
+body {
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: grey;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    margin: 0px;
+}
+
+.elementnav {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Titillium Web";
+}
+
+.elementnav:hover {
+    background-color: black;
+    margin: 20px;
+    font-size: 110%;
+}
+
+
+
+.titreheader {
+    color: white;
+    margin: 0%;
+    font-family: "Bebas Neue";
+    font-size: 60px;
+}
+
+.imagelogo {
+    margin: 10px;
+}
+
+footer {
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+#mainfooter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px;
+}
+
+#plansitefooter {
+    text-align: center;
+}
+
+.textfooter {
+    color: white;
+    text-decoration: none;
+}
+
+#retourhaut {
+    margin-top: 100px;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 30px;
+    font-family: "Titillium Web";
+
+}
+
+#retourhaut:hover {
+   
+    
+}
+
+#textretour:hover {
+    color: black;
+    background-color: white;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.titillium-web-bold {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
